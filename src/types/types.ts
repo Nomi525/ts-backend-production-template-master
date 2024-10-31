@@ -8,6 +8,7 @@ export type THttpResponse = {
     }
     message: string
     data: unknown
+    // data: unknown
 }
 
 export type THttpError = {
